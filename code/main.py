@@ -199,9 +199,9 @@ class MainMenu:
 if __name__ == "__main__":
     # Set up database connection
     db = Database(
-        host="localhost",
-        user="kasak",
-        password="1234",
+        host="your_host_name",
+        user="your_username",
+        password="your_password",
         database="bas"
     )
     try:
