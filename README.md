@@ -139,8 +139,7 @@ FLUSH PRIVILEGES;
 
 - **Kasak Masrani**  
   B.E. Computer Engineering Student  
-  Developer of the Budget Advisory System  
-  Participant, Hackathon 6.0
+  
 
 ---
 
